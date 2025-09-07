@@ -1,0 +1,127 @@
+[
+  {
+    "question": "Who is known as the Father of the Indian Constitution?",
+    "options": ["Mahatma Gandhi", "Dr. B.R. Ambedkar", "Rajendra Prasad", "Jawaharlal Nehru"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the national animal of India?",
+    "options": ["Lion", "Tiger", "Elephant", "Deer"],
+    "answer": 1
+  },
+  {
+    "question": "Which river flows through Delhi?",
+    "options": ["Ganga", "Yamuna", "Sutlej", "Narmada"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first President of India?",
+    "options": ["Dr. Rajendra Prasad", "Sarvepalli Radhakrishnan", "Zakir Hussain", "V.V. Giri"],
+    "answer": 0
+  },
+  {
+    "question": "Which Mughal emperor built the Red Fort in Delhi?",
+    "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+    "answer": 2
+  },
+  {
+    "question": "When did India gain independence?",
+    "options": ["15 August 1947", "26 January 1950", "2 October 1942", "5 June 1945"],
+    "answer": 0
+  },
+  {
+    "question": "What is the capital of India?",
+    "options": ["Mumbai", "New Delhi", "Chennai", "Kolkata"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the national sport of India?",
+    "options": ["Hockey", "Cricket", "Football", "Kabaddi"],
+    "answer": 0
+  },
+  {
+    "question": "Who gave the slogan 'Inquilab Zindabad'?",
+    "options": ["Bhagat Singh", "Mahatma Gandhi", "Subhas Chandra Bose", "Bal Gangadhar Tilak"],
+    "answer": 0
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+    "answer": 1
+  },
+  {
+    "question": "Who was the first woman Prime Minister of India?",
+    "options": ["Sarojini Naidu", "Indira Gandhi", "Pratibha Patil", "Sushma Swaraj"],
+    "answer": 1
+  },
+  {
+    "question": "What is the currency of India?",
+    "options": ["Dollar", "Rupee", "Yen", "Pound"],
+    "answer": 1
+  },
+  {
+    "question": "Which monument is called the Symbol of Love?",
+    "options": ["Qutub Minar", "India Gate", "Taj Mahal", "Charminar"],
+    "answer": 2
+  },
+  {
+    "question": "Who is known as the Iron Man of India?",
+    "options": ["Mahatma Gandhi", "Sardar Vallabhbhai Patel", "Subhas Chandra Bose", "Lal Bahadur Shastri"],
+    "answer": 1
+  },
+  {
+    "question": "Which is the national bird of India?",
+    "options": ["Parrot", "Peacock", "Crow", "Eagle"],
+    "answer": 1
+  },
+  {
+    "question": "Who discovered the zero?",
+    "options": ["Aryabhata", "Bhaskara", "Ramanujan", "Varahamihira"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the largest state of India (area-wise)?",
+    "options": ["Maharashtra", "Uttar Pradesh", "Madhya Pradesh", "Rajasthan"],
+    "answer": 3
+  },
+  {
+    "question": "Who was the first Vice President of India?",
+    "options": ["Dr. Rajendra Prasad", "Dr. Sarvepalli Radhakrishnan", "Zakir Hussain", "Jawaharlal Nehru"],
+    "answer": 1
+  },
+  {
+    "question": "Which day is celebrated as Republic Day in India?",
+    "options": ["15 August", "26 January", "2 October", "5 September"],
+    "answer": 1
+  },
+  {
+    "question": "Which gas is essential for breathing?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+    "answer": 0
+  },
+  {
+    "question": "Which is the smallest state of India (area-wise)?",
+    "options": ["Sikkim", "Tripura", "Goa", "Nagaland"],
+    "answer": 2
+  },
+  {
+    "question": "Who was the first Prime Minister of India?",
+    "options": ["Jawaharlal Nehru", "Lal Bahadur Shastri", "Rajiv Gandhi", "Indira Gandhi"],
+    "answer": 0
+  },
+  {
+    "question": "Which festival is known as the Festival of Lights?",
+    "options": ["Holi", "Eid", "Diwali", "Baisakhi"],
+    "answer": 2
+  },
+  {
+    "question": "Which is the national flower of India?",
+    "options": ["Rose", "Lotus", "Sunflower", "Lily"],
+    "answer": 1
+  },
+  {
+    "question": "Which instrument is used to measure temperature?",
+    "options": ["Barometer", "Thermometer", "Hygrometer", "Speedometer"],
+    "answer": 1
+  }
+]
